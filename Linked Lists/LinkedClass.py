@@ -1,7 +1,7 @@
 class Node:
     __slots__ = ['val' , 'next']
 
-    def __init__(self,val:int) ->None:
+    def __init__(self,val) ->None:
         self.val = val
         self.next = None
 
