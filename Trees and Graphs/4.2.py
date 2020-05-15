@@ -1,4 +1,3 @@
-# Tree from an array
 
 class newNode:
     def __init__(self, data): 
